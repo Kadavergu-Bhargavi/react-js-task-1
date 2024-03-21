@@ -165,7 +165,7 @@ const Book = (props) => {
 
    function complexExample(author, title){
      console.log(author);
-     console.log(title)
+     console.log(title);
 
    }
 
